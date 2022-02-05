@@ -6,7 +6,7 @@ Notebooks sobre desarrollos de Salud para Machine Learning, creados con _Jupyter
 ##
 
 
-Para utilizar los notebooks con el código Python, es necesario instalar la aplicación Jupyter Notebook que se puede encontrar disponible como parte del paquete de aplicaciones Anaconda. En los cuadernos mostrados se encuentra realizada una ejecución.
+Para utilizar los notebooks con el código Python, es necesario instalar la aplicación _Jupyter Notebook_ que se puede encontrar disponible como parte del paquete de aplicaciones _Anaconda_. En los cuadernos mostrados se encuentra realizada una ejecución.
 
 ## CONTENIDO
 
